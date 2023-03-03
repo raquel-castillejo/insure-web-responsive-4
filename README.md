@@ -8,11 +8,12 @@
 
 ## Descripción 📑
 
-El objetivo de esta práctica es aplicar todos los conocimientos dados de CSS para crear una web responsive.
+El objetivo de esta práctica es utilizar las variables CSS al crear una web.
 
 ## ¿Qué he aprendido en este proyecto? 🙇🏻
 
-A realizar un sitio responsive.
+A realizar un sitio responsive. </br>
+A utilizar variables CSS para guardar contenido como fuentes y colores.
 
 ## Tecnologías 🛠
 
